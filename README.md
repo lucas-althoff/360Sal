@@ -1,4 +1,4 @@
-# Gaze Behavior Statistical Analysis for 360-degree Videos 
+# Gaze Behavior Statistical Analysis for Studying Attention in 360-degree Videos 
 
 *written by PhD. Student Lucas Althoff*
 
