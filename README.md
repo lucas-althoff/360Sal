@@ -11,9 +11,9 @@
   * [Paper 0 - Visual Attention Analysis in 
 Cinematic VR Content](https://v-sense.scss.tcd.ie/wp-content/uploads/2018/09/CVMP2018_DirectorsCut_public-1.pdf)
   * [Paper 1 - Cut and transitions](https://v-sense.scss.tcd.ie/wp-content/uploads/2018/12/2018_IC3D_DirectorCut_AttentionStoryTelling.pdf)
-    *[Paper2 - Interactive Storytelling](https://v-sense.scss.tcd.ie/wp-content/uploads/2018/09/Directors-Cut-analysis-of-aspects-of-interactive-storytelling.pdf)
+  * [Paper2 - Interactive Storytelling](https://v-sense.scss.tcd.ie/wp-content/uploads/2018/09/Directors-Cut-analysis-of-aspects-of-interactive-storytelling.pdf)
 
-* [Afshin](https://github.com/acmmmsys/2019-360dataset)
+* [Motion Scences Dataset - Afshin](https://github.com/acmmmsys/2019-360dataset)
     * [Dataset](https://github.com/acmmmsys/2019-360dataset)
     * [Paper](https://arxiv.org/abs/1905.03823)
 * [Saliency in VR: How do people explore virtual environments? - Sitzmann](https://github.com/vsitzmann/vr-saliency)
