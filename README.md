@@ -1,8 +1,10 @@
-# Gaze Behavior Statistical Analysis for Studying Attention in 360-degree Videos 
+# Gaze Behavior Statistical Analysis for 360-degree Videos 
 
 *written by PhD. Student Lucas Althoff*
 
-## [Access to Our Project Repository with Datasets & Code](https://drive.google.com/drive/folders/13Bn_WQgGCh0ahyqoVG_UBoqNxP4qDLCQ?usp=sharing)
+> Access to Our Project Repository with Datasets & Code  
+* ## [[GDrive]](https://drive.google.com/drive/folders/13Bn_WQgGCh0ahyqoVG_UBoqNxP4qDLCQ?usp=sharing)
+* ## [[Github]](https://github.com/lucas-althoff/360Sal_Behavior)
 
 > Reference projects: 
 
@@ -23,3 +25,4 @@ Cinematic VR Content](https://v-sense.scss.tcd.ie/wp-content/uploads/2018/09/CVM
 * [Notebook with some statistical tests](https://github.com/vkakerbeck/NBP-VR-Lab/blob/cb71997351159479b8054bde14b97284101a58ef/Analysis/MapAnalysis/MapTrainingAnalysis.ipynb)
 
 ---
+
